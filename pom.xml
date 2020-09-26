@@ -20,7 +20,7 @@
     </properties>
 
     <dependencies>
-        <!--   mongodb     -->
+         <!--   mongodb     -->
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-data-mongodb</artifactId>
@@ -59,7 +59,6 @@
             </exclusions>
         </dependency>
     </dependencies>
-
     <build>
         <plugins>
             <plugin>

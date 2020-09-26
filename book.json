@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "红楼梦",
+    "author": "曹雪芹",
+    "description": "满纸荒唐言,一把辛酸泪"
+  },
+  {
+    "id": 2,
+    "name": "三体",
+    "author": "刘慈欣",
+    "description": "给时光以生命,给岁月以文明"
+  },
+  {
+    "id": 3,
+    "name": "西游记",
+    "author": "吴承恩",
+    "description": "吃俺老孙一棒"
+  },
+  {
+    "id": 4,
+    "name": "三国演义",
+    "author": "罗贯中",
+    "description": "俺也一样"
+  },
+  {
+    "id": 5,
+    "name": "水浒传",
+    "author": "施耐庵",
+    "description": "路见不平,拔刀相助"
+  }
+]
